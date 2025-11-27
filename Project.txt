@@ -1,0 +1,41 @@
+Semana I:
+    /*Martes 11/25/2025, 9:42 PM, >> Comentario: CatChaos404
+    Progreso de Proyecto:
+        I.Esqueleto y Razón del Proyecto:
+            //El día de hoy me propuse crear una página web, específicamente un portafolio (Tipo Artístico) en donde pruebe y 
+            aplique las tecnologías básicas de una aplicación web (el combo de JavaScript, HTML Y CSS para el Frontend y para 
+            el Backend C#). mi conocimiento de las tecnologías web en este momento es nulo, voy a ir aprendiendo con el tiempo 
+            (Espero que antes de entrar a al proximo cuatrimestre el 2026).
+
+        II.Objetivos Generales:
+            //Entre las cosas que quiero aprender con este proyecto son:
+                1.Manejo de responsabilidades.
+                2.Uso de Apis.
+                3.Manejo Básico de librerías.
+                4.Buena administración de componentes.
+                5.Manejo de sistemas.
+                6.Buena estética (lo principal es que la aplicación funcione).
+
+        III.Metas alcanzadas:
+            //La mayoría de mi conocimiento lo he obtenido de estar programando en C# y estar usando los Frameworks WPF
+            (Windows Presentation Foundation) y Maui.
+
+            //Ya he creado la mayoría de las carpetas necesarias para el proyecto, principalmente en la parte del Frontend 
+            (Estoy ocupando como referencia a WPF para la separación de responsabilidades).
+
+            //Esto seria todo por hoy, espero estos días aprender mas de HTML y CSS (me da miedo JavaScript X'D) para manejar 
+            de buena forma el proyecto
+    */
+
+    /*Miércoles 12/25/2025, 12:00 PM, >> Comentario: CatChaos404
+    Progreso de Proyecto:
+        I.Profundización de la arquitectura:
+            //Desde ayer estuve haciendo la estructuración (descrito en el Comentario >>11/25/2025 del día pasado)
+            y mi pensamiento por el momento es hacer la arquitectura en base a Mvvm pero adaptada al Frontend. Aún me falta 
+            conocimiento para irme por la arquitectura de microservicios, en la carpeta  de Resources se dividió por 
+            tipografías (Fonts), Imágenes (Images), Sonidos o efectos sonoros (Sounds), Diseños y estilos de las páginas (Ui) 
+            y la carpeta para los videos (Videos); cada carpeta tiene sus fundamentos y reglas de como se deben de nombrar y 
+            que archivos deben de estar.
+
+            //Además de Resources, también hice una carpeta para el código del Frontend (Scripts) y las Paginas HTML (Pages).
+            */

@@ -1,0 +1,3 @@
+[Ui]:
+/* Martes 11/25/2025, 10:27 PM, >> Comentario: CatChaos404
+    De tipo cascada(.css), aquí es en donde se van a definir los estilos, diseños de controles o uso debido de normativas visuales en todas las páginas*/

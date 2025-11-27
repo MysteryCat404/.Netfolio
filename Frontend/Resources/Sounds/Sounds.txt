@@ -1,0 +1,11 @@
+[Images]:
+/* Martes 11/25/2025, 10:23 PM, >> Comentario: CatChaos404
+    Aquí van los archivos tipo .mp3 y .ogg o variantes.. Cada archivo debe de nombrar con una palabra su función en el proyecto y debe de especificar para que se usaran:
+
+    Diccionario de normativas:
+        -De tipo efecto sonoro de larga duración: .sfx
+        -De tipo efecto sonoro de corta duración: .fx
+        -De tipo Sonido ambiental: .ambientfx
+        -De tipo musical: .music
+    
+    */

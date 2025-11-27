@@ -1,0 +1,10 @@
+[Images]:
+/* Martes 11/25/2025, 10:23 PM, >> Comentario: CatChaos404
+    Aquí van los archivos tipo .png y .jpg o .jpeg, .gif, .svg, etc.. Cada archivo debe de nombrar con una palabra su función en el proyecto!!:
+    
+    Diccionario de normativas:
+        -De tipo Ícono: .icon
+        -De tipo Textura: .texture
+        -De tipo Ilustración: .art
+        -De tipo Vectorial: .vector
+    */

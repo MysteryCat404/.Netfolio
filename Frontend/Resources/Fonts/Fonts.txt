@@ -1,0 +1,3 @@
+[Fonts]:
+/* Martes 11/25/2025, 10:23 PM, >> Comentario: CatChaos404
+    Aquí van los archivos tipo .tff y .otf, .woff, .woff2; todas las tipografias van aquí. */
