@@ -9,7 +9,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\CatChaos2025\\ProyectosDotNet\\Web\\Portafolio\\Frontend\\index.html"
+            "file": "c:\\Users\\CatChaos2025\\ProyectosDotNet\\Web\\Portafolio\\index.html"
         }
     ]
 }
